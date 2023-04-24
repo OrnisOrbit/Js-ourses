@@ -1,1 +1,1 @@
-# Js-ourses
+# JsCourses
